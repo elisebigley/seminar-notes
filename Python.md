@@ -1,12 +1,9 @@
->>> interpreter 
-> or $ command/terminal 
+">>>" interpreter 
+">" or $ command/terminal 
 
 Save a docu on a text editor as my search.py 
 
 Instead of messing with the interpreter 
-
-$
-> 
 
 Copy your commands into a text editor and then you type in to the command line/terminal python my search.py
 
