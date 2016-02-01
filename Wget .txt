@@ -1,0 +1,28 @@
+"Our mission is to preserve, protect and promote the freedom to use, study, copy, modify, and redistribute computer software, and to defend the rights of Free Software users" (mission statement of Wget) 
+
+We can download articles from databases 
+
+New folder per project per query 
+
+
+wget -i name.txt (terminal)
+
+then you put all the urls you want to download (into text editor)
+
+http://data2.archives.ca/e/e167/e004157817.jpg
+http://data2.archives.ca/e/e167/e004157818.jpg
+http://data2.archives.ca/e/e167/e004157819.jpg
+etc. 
+
+wget -i e167.txt  w 2 (terminal) 
+
+http://programminghistorian.org/lessons/automated-downloading-with-wget
+
+try and download multiple files tonight** 
+
+To add a list (put the url into Excel and then +1 equation and you will end up with the ascending list of urls) 
+
+
+
+
+
