@@ -9,6 +9,8 @@ Copy your commands into a text editor and then you type in to the command line/t
 
 Don't use both the tab key and the space bar. Tab and space bar are different and have different codes underneath. If you use both it will mess up your script. 
 
+Google error messages? 
+
 
 
 
